@@ -9,7 +9,9 @@ Hi my name is Pillow and im a backend dev!
 
 - i am a very expirenced dev and code way to much
 
-- im currently working on Ongaku!
+- im currently working on Requis!
+
+- Moderator for @AprixStudios
 
 ```
 
