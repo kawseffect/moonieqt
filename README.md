@@ -1,6 +1,6 @@
 # Moown
 
-Hi my name is Moown and im a backend dev!
+sorry i left like that.. bu i tried!
 
 ## Info about me
 
@@ -13,5 +13,5 @@ Hi my name is Moown and im a backend dev!
 
 - Moderator for @NCA
 
-```
+``` (may be a bit outdated lol)
 
