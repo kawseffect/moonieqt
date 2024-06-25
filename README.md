@@ -1,17 +1,17 @@
-# Moown
+# Hi my name is Mushroom
 
 sorry i left like that.. bu i tried!
 
 ## Info about me
 
 ```asciidoc
-- I own CodingLounge!
+- I own Attraction!
 
-- i am a very expirenced dev and code way to much
+- very experienced
 
-- im currently working on Remu & a google api!
+- making internet software & a api
 
-- Moderator for @NCA
+- Moderator for @IRS
 
 ``` (may be a bit outdated lol)
 
